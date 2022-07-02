@@ -7,7 +7,9 @@
 | 🚀 URL                   |                                         |
 | 🔥 Desafio ou Referência | [https://github.com/SpruceGabriela/instagram-dio](https://github.com/SpruceGabriela/instagram-dio)           |
 
+## Exibição do Projeto
 
+![Página Inicial do instagram](./img/paginaInicial.png)
 
 ## Detalhes do Projeto
 
